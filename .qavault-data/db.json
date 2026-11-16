@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "usr-admin",
+      "username": "Admin",
+      "name": "Admin",
+      "email": "admin@qavault.local",
+      "password": "QA_VAULT@123",
+      "role": "Admin",
+      "initials": "AD",
+      "avatarColor": "#0F172A",
+      "createdAt": "2026-11-16T14:30:16.409Z"
+    }
+  ],
+  "sprints": [],
+  "workItems": [],
+  "documents": [],
+  "activities": [],
+  "notes": [],
+  "nextWorkItemId": 1
+}
